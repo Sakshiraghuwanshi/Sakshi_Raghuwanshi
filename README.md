@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sakshi Raghuwanshi</h1>
+<h1 align="center">Hi , I'm Sakshi Raghuwanshi</h1>
 <h3 align="center">Frontend Developer</h3>
 
 - 🔭 I’m currently working on **Minor Project**
 
-- 🌱 I’m currently learning **React Native and Python,ML**
+- 🌱 I’m currently learning **React Native,Python,ML,Data Structure**
 
-- 💬 Ask me about **MYSQL,React Native**
+- 💬 Ask me about **MYSQL and React Native**
 
 - 📫 How to reach me **sakshi10072611@gmail.com**
 
