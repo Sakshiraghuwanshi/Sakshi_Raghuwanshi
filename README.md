@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React Native and Python,ML**
 
+- 💬 Ask me about **MYSQL,React Native**
+
 - 📫 How to reach me **sakshi10072611@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
