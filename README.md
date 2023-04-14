@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Minor Project**
 
-- 🌱 I’m currently learning **React Native,Python,ML and Data Structure**
+- 🌱 I’m currently learning **ReactJs, React Native, NextJs and Data Structure**
 
-- 💬 Ask me about **MYSQL and React Native**
+- 💬 Ask me about **MYSQL and ReactJs**
 
 - 📫 How to reach me **sakshi10072611@gmail.com**
 
