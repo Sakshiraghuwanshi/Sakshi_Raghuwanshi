@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshiraghuwanshi&label=Profile%20views&color=0e75b6&style=flat" alt="sakshiraghuwanshi" /> </p>
 
-- 🔭 I’m currently working on **Minor Project**
+- 🔭 I’m currently working on **Major Project**
 
-- 🌱 I’m currently learning **ReactJs, React Native, NextJs and Data Structure**
+- 🌱 I’m currently learning **ReactJs, React Native and Data Structure**
 
 - 💬 Ask me about **MYSQL and ReactJs**
 
